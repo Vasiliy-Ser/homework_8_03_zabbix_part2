@@ -23,7 +23,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![1](https://github.com/Vasiliy-Ser/homework_8_03_zabbix_part2/blob/main/img/8.3.1.1.png)
 
 
 ---
@@ -74,7 +74,8 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![2-3](https://github.com/Vasiliy-Ser/homework_8_03_zabbix_part2/blob/main/img/8.3.3.1.png)
+)
 
 ### Задание 4
 
@@ -95,7 +96,8 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![4](https://github.com/Vasiliy-Ser/homework_8_03_zabbix_part2/blob/main/img/8.3.4.1.png)
+
 
 ### Задание 5* со звёздочкой
 
@@ -116,7 +118,10 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![5.1](https://github.com/Vasiliy-Ser/homework_8_03_zabbix_part2/blob/main/img/8.3.5.1.png)
+![5.2](https://github.com/Vasiliy-Ser/homework_8_03_zabbix_part2/blob/main/img/8.3.5.2.png)
+
+
 
 
 ### Задание 6* со звёздочкой
@@ -148,7 +153,8 @@ fi
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![6](https://github.com/Vasiliy-Ser/homework_8_03_zabbix_part2/blob/main/img/8.3.6.1.png)
+
 
 
 ### Задание 7* со звёздочкой
@@ -200,7 +206,8 @@ else:
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![7](https://github.com/Vasiliy-Ser/homework_8_03_zabbix_part2/blob/main/img/8.3.7.1.png)
+
 
 ### Задание 8* со звёздочкой
 
@@ -215,7 +222,9 @@ else:
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![8.1](https://github.com/Vasiliy-Ser/homework_8_03_zabbix_part2/blob/main/img/8.3.8.1.png)
+![8.2](https://github.com/Vasiliy-Ser/homework_8_03_zabbix_part2/blob/main/img/8.3.8.2.png)
+
 
 
 ### Задание 9* со звёздочкой
